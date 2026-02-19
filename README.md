@@ -1,6 +1,5 @@
-# IO-Link-Industrial-Board
-Multi-revision industrial IO-Link master platform with on-board Ethernet and STM32H5 hardware integration.
 # IO-Link Industrial Communication Board
+Multi-revision industrial IO-Link master platform with on-board Ethernet and STM32H5 hardware integration.
 
 ## Overview
 
@@ -29,7 +28,7 @@ The design emphasizes deterministic wake behavior, signal integrity, and robust 
 ## Revision History
 
 ### Version 1 – LTC2874 Based
-- Inherited legacy hardware design
+- Inherited legacy hardware design from senior member of the same organisation
 - Identified wake-up timing instability
 - Refined signal routing and protection topology
 - Improved grounding strategy
